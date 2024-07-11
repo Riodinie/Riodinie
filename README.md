@@ -2,7 +2,9 @@
 
 ###
 
-<img align="left" height="150" src="https://c.tenor.com/EkHDAInYbsQAAAAM/houseki-no.gif"  />
+<div align="center">
+  <img height="" src="https://c.tenor.com/EkHDAInYbsQAAAAM/houseki-no.gif"  />
+</div>
 
 ###
 
@@ -44,6 +46,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Riodinie/Riodinie/output/snake.svg" alt="Snake animation" />
-
-###
