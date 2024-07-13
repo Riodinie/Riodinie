@@ -45,7 +45,7 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Riodinie/Riodinie/output/snake.svg" alt="Snake animation" />
-
+<div align="center">
+<img src="https://github.com/Riodinie/Riodinie/blob/62be6d0a829f03e23edfff34075f91155717c3fb/github-user-contribution.svg" alt="Snake animation" />
+</div>
 ###
